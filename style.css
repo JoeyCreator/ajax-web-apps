@@ -1,0 +1,16 @@
+
+header {
+    background-color: #EBEBEB;
+    color: #006FBB;
+    margin: 0;
+    margin-bottom: 32px;
+    padding: 18px;
+    font-size: 2.4em;
+    font-weight: bold;
+    border-bottom: 1px #C6C6C6 solid;
+}
+
+header a, header a:visited {
+    color: #006FBB;
+    text-decoration: none;
+}
